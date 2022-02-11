@@ -1,0 +1,6 @@
+framework module Pods_Debugging_Challenge_Unit_01 {
+  umbrella header "Pods-Debugging Challenge Unit 01-umbrella.h"
+
+  export *
+  module * { export * }
+}
